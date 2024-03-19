@@ -26,3 +26,12 @@ This Visualization showcases the monthly sales analysis of Sample Superstore, fe
 ![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/a03870a5-f5d9-4dbc-bc8f-a2a0865c68b9)
 
 This Visualization presents an analysis of new stores, beginning with a map visualizing store locations by city and chain. Following this, the analysis includes a depiction of open store count by open month and chain, providing insights into the distribution and growth of new stores over time. Additionally, a line graph illustrates this year's sales by fiscal month, offering a temporal perspective on sales performance. Lastly, a list of store names further contextualizes the analysis, providing a comprehensive overview of new store dynamics.
+
+**KPI Analysis and Sales Composition**
+
+![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/a48d1d9e-df8a-4823-ab25-3b0e01ec4726) ![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/9fcab5de-5f46-4ac5-94c7-48d88458dc70)
+
+TBoth slide visualization provides a comprehensive analysis of key performance indicators (KPIs) and sales composition for Fashions Direct and Lindseys Chain. The first visualization compares total units sold this year and last year by fiscal month, offering insights into unit sales trends over time. The second visualization presents a pie chart illustrating the sales composition for each chain, distinguishing between regular sales units and markdown sales units. Together, these visualizations offer a holistic view of performance dynamics and sales distribution for both chains.
+
+
+
