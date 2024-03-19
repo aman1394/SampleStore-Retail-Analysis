@@ -36,7 +36,7 @@ Both slide visualization provides a comprehensive analysis of key performance in
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 10px;">
     <h2>Year-on-Year Performance Comparison and Variance Analysis</h2>
-    <img src="![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/d58ae928-f695-4700-84b6-bfd1ee0bcdf7)" alt="Image 1" style="max-width: 100%;">
+    <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/d58ae928-f695-4700-84b6-bfd1ee0bcdf7" alt="KPI Analysis" style="width:49%">
     <p>First paragraph goes here.</p>
   </div>
   <div style="flex: 1;">
