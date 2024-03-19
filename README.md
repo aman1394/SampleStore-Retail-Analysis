@@ -59,5 +59,17 @@ Both slide visualization provides a comprehensive analysis of key performance in
   </div>
 </div>
 
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 10px;">
+    <h2>Heading 1</h2>
+    img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/d58ae928-f695-4700-84b6-bfd1ee0bcdf7" alt="KPI Analysis" style="width:49%">
+    <p style="max-width: 100%;">First paragraph goes here.</p>
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <h2>Heading 2</h2>
+    <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/ffe2bbeb-d549-404d-9430-150d93d2f3c6" alt="KPI Analysis" style="width:49%">
+    <p style="max-width: 100%;">Second paragraph goes here.</p>
+  </div>
+</div>
 
 
