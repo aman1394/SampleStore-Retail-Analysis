@@ -37,12 +37,12 @@ Both slide visualization provides a comprehensive analysis of key performance in
   <div style="flex: 1; margin-right: 10px;">
     <h2>Year-on-Year Performance Comparison and Variance Analysis</h2>
     <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/d58ae928-f695-4700-84b6-bfd1ee0bcdf7" alt="KPI Analysis" style="width:49%">
-    <p>First paragraph goes here.</p>
+    <p>This slide presents a comparative analysis of this year and last year's performance for Fashions Direct and Lindseys Chain. A column chart visually depicts the performance trends over time, enabling easy identification of variances and trends. Filter buttons facilitate focused exploration within specific chains, enhancing granularity.</p>
   </div>
   <div style="flex: 1;">
     <h2>Detailed Drill-Through Analysis</h2>
-    <img src="![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/ffe2bbeb-d549-404d-9430-150d93d2f3c6)" alt="Image 2" style="max-width: 100%;">
-    <p>Second paragraph goes here.</p>
+    <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/ffe2bbeb-d549-404d-9430-150d93d2f3c6" alt="KPI Analysis" style="width:49%">
+    <p>Incorporating a multi-row card with an arrow button, this slide offers drill-through functionality for detailed insights. Users can Ctrl + click on specific data points to delve deeper into underlying factors influencing performance variations. Seamless transition between slides allows for a comprehensive analysis, combining high-level trends with detailed examination for informed decision-making.</p>
   </div>
 </div>
 
