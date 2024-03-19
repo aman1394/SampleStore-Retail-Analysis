@@ -47,26 +47,9 @@ Both slide visualization provides a comprehensive analysis of key performance in
   </div>
 </div>
 
-## Side-by-Side Images
 
-### Image 1
 
-<figure class="side-by-side">
-    <h2>Year-on-Year Performance Comparison and Variance Analysis</h2>
-    <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/d58ae928-f695-4700-84b6-bfd1ee0bcdf7" alt="KPI Analysis" style="width:49%">
-  <figcaption>This slide presents a comparative analysis of this year and last year's performance for 
-    Fashions Direct and Lindseys Chain. A column chart visually depicts the performance trends over time, 
-    enabling easy identification of variances and trends. Filter buttons facilitate focused exploration 
-    within specific chains, enhancing granularity.</figcaption>
-</figure>
 
-### Image 2
-
-<figure class="side-by-side">
-  <h2>Detailed Drill-Through Analysis</h2>
-     <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/ffe2bbeb-d549-404d-9430-150d93d2f3c6" alt="KPI Analysis" style="width:49%">
-  <figcaption>Incorporating a multi-row card with an arrow button, this slide offers drill-through functionality for detailed insights. Users can Ctrl + click on specific data points to delve deeper into underlying factors influencing performance variations. Seamless transition between slides allows for a comprehensive analysis, combining high-level trends with detailed examination for informed decision-making.</figcaption>
-</figure>
 
 
 
