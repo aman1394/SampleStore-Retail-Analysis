@@ -29,7 +29,8 @@ This Visualization presents an analysis of new stores, beginning with a map visu
 
 **KPI Analysis and Sales Composition**
 
-![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/a48d1d9e-df8a-4823-ab25-3b0e01ec4726) ![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/9fcab5de-5f46-4ac5-94c7-48d88458dc70)
+<img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/a48d1d9e-df8a-4823-ab25-3b0e01ec4726" alt="KPI Analysis" style="width:45%">
+<img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/9fcab5de-5f46-4ac5-94c7-48d88458dc70" alt="Sales Composition" style="width:45%">
 
 Both slide visualization provides a comprehensive analysis of key performance indicators (KPIs) and sales composition for Fashions Direct and Lindseys Chain. The first visualization compares total units sold this year and last year by fiscal month, offering insights into unit sales trends over time. The second visualization presents a pie chart illustrating the sales composition for each chain, distinguishing between regular sales units and markdown sales units. Together, these visualizations offer a holistic view of performance dynamics and sales distribution for both chains.
 
