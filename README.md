@@ -33,5 +33,18 @@ This Visualization presents an analysis of new stores, beginning with a map visu
 
 Both slide visualization provides a comprehensive analysis of key performance indicators (KPIs) and sales composition for Fashions Direct and Lindseys Chain. The first visualization compares total units sold this year and last year by fiscal month, offering insights into unit sales trends over time. The second visualization presents a pie chart illustrating the sales composition for each chain, distinguishing between regular sales units and markdown sales units. Together, these visualizations offer a holistic view of performance dynamics and sales distribution for both chains.
 
+<div style="display: flex;">
+  <div style="flex: 1; margin-right: 10px;">
+    <h2>Year-on-Year Performance Comparison and Variance Analysis</h2>
+    <img src="![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/d58ae928-f695-4700-84b6-bfd1ee0bcdf7)" alt="Image 1" style="max-width: 100%;">
+    <p>First paragraph goes here.</p>
+  </div>
+  <div style="flex: 1;">
+    <h2>Detailed Drill-Through Analysis</h2>
+    <img src="![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/ffe2bbeb-d549-404d-9430-150d93d2f3c6)" alt="Image 2" style="max-width: 100%;">
+    <p>Second paragraph goes here.</p>
+  </div>
+</div>
+
 
 
