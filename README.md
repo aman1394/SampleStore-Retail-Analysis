@@ -54,7 +54,10 @@ Both slide visualization provides a comprehensive analysis of key performance in
 <figure class="side-by-side">
     <h2>Year-on-Year Performance Comparison and Variance Analysis</h2>
     <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/d58ae928-f695-4700-84b6-bfd1ee0bcdf7" alt="KPI Analysis" style="width:49%">
-  <figcaption>This slide presents a comparative analysis of this year and last year's performance for Fashions Direct and Lindseys Chain. A column chart visually depicts the performance trends over time, enabling easy identification of variances and trends. Filter buttons facilitate focused exploration within specific chains, enhancing granularity.</figcaption>
+  <figcaption>This slide presents a comparative analysis of this year and last year's performance for 
+    Fashions Direct and Lindseys Chain. A column chart visually depicts the performance trends over time, 
+    enabling easy identification of variances and trends. Filter buttons facilitate focused exploration 
+    within specific chains, enhancing granularity.</figcaption>
 </figure>
 
 ### Image 2
