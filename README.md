@@ -37,20 +37,19 @@ Both slide visualization provides a comprehensive analysis of key performance in
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 10px;">
     <h2>Year-on-Year Performance Comparison and Variance Analysis</h2>
-    <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/d58ae928-f695-4700-84b6-bfd1ee0bcdf7" alt="KPI Analysis" style="width:80%">
+    <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/d58ae928-f695-4700-84b6-bfd1ee0bcdf7" alt="KPI Analysis" style="width:70%">
     <p>This slide presents a comparative analysis of this year and last year's performance for Fashions Direct and Lindseys Chain. A column chart visually depicts the performance trends over time, enabling easy identification of variances and trends. Filter buttons facilitate focused exploration within specific chains, enhancing granularity.</p>
   </div>
   <div style="flex: 1; margin-left: 10px;">
     <h2>Detailed Drill-Through Analysis</h2>
-     <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/ffe2bbeb-d549-404d-9430-150d93d2f3c6" alt="KPI Analysis" style="width:80%">
+     <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/ffe2bbeb-d549-404d-9430-150d93d2f3c6" alt="KPI Analysis" style="width:70%">
     <p>Incorporating a multi-row card with an arrow button, this slide offers drill-through functionality for detailed insights. Users can Ctrl + click on specific data points to delve deeper into underlying factors influencing performance variations. Seamless transition between slides allows for a comprehensive analysis, combining high-level trends with detailed examination for informed decision-making.</p> 
   </div>
 </div>
 
 **Sales by Category Analysis**
 
-![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/e1033fc9-4e66-4a49-97b6-ff8fcebbfa89)
-
+<img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/e1033fc9-4e66-4a49-97b6-ff8fcebbfa89" alt="KPI Analysis" style="width:70%">
  This slide presents an analysis of sales by category, featuring a stacked bar chart visualization. The chart provides insights into sales distribution across different categories, allowing for comparison and trend analysis. Two filter tabs are included for chain and buyer, enabling users to dynamically filter and explore sales data based on specific criteria. This visualization empowers users to gain a deeper understanding of sales patterns and make data-driven decisions.
 
 
