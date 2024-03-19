@@ -33,18 +33,6 @@ This Visualization presents an analysis of new stores, beginning with a map visu
 
 Both slide visualization provides a comprehensive analysis of key performance indicators (KPIs) and sales composition for Fashions Direct and Lindseys Chain. The first visualization compares total units sold this year and last year by fiscal month, offering insights into unit sales trends over time. The second visualization presents a pie chart illustrating the sales composition for each chain, distinguishing between regular sales units and markdown sales units. Together, these visualizations offer a holistic view of performance dynamics and sales distribution for both chains.
 
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 10px;">
-    <h2>Year-on-Year Performance Comparison and Variance Analysis</h2>
-    <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/d58ae928-f695-4700-84b6-bfd1ee0bcdf7" alt="KPI Analysis" style="width:49%">
-    <p>This slide presents a comparative analysis of this year and last year's performance for Fashions Direct and Lindseys Chain. A column chart visually depicts the performance trends over time, enabling easy identification of variances and trends. Filter buttons facilitate focused exploration within specific chains, enhancing granularity.</p>
-  </div>
-  <div style="flex: 1;">
-    <h2>Detailed Drill-Through Analysis</h2>
-    <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/ffe2bbeb-d549-404d-9430-150d93d2f3c6" alt="KPI Analysis" style="width:49%">
-    <p>Incorporating a multi-row card with an arrow button, this slide offers drill-through functionality for detailed insights. Users can Ctrl + click on specific data points to delve deeper into underlying factors influencing performance variations. Seamless transition between slides allows for a comprehensive analysis, combining high-level trends with detailed examination for informed decision-making.</p>
-  </div>
-</div>
 
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 10px;">
@@ -59,17 +47,6 @@ Both slide visualization provides a comprehensive analysis of key performance in
   </div>
 </div>
 
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 10px;">
-    <h2>Heading 1</h2>
-    img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/d58ae928-f695-4700-84b6-bfd1ee0bcdf7" alt="KPI Analysis" style="width:49%">
-    <p style="max-width: 100%;">First paragraph goes here.</p>
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <h2>Heading 2</h2>
-    <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/ffe2bbeb-d549-404d-9430-150d93d2f3c6" alt="KPI Analysis" style="width:49%">
-    <p style="max-width: 100%;">Second paragraph goes here.</p>
-  </div>
-</div>
+
 
 
