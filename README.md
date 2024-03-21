@@ -52,6 +52,17 @@ Both slide visualization provides a comprehensive analysis of key performance in
 <img src="https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/e1033fc9-4e66-4a49-97b6-ff8fcebbfa89" alt="KPI Analysis" style="width:70%">
  This slide presents an analysis of sales by category, featuring a stacked bar chart visualization. The chart provides insights into sales distribution across different categories, allowing for comparison and trend analysis. Two filter tabs are included for chain and buyer, enabling users to dynamically filter and explore sales data based on specific criteria. This visualization empowers users to gain a deeper understanding of sales patterns and make data-driven decisions.
 
+## How to Use
+
+To view the reports, download the .pbix file and open it using PowerBI Desktop.
+
+## Data Source
+
+The data used for analysis is sourced from an Awesome Chocolates data.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
 
