@@ -58,7 +58,7 @@ To view the reports, download the .pbix file and open it using PowerBI Desktop.
 
 ## Data Source
 
-The data used for analysis is sourced from an Awesome Chocolates data.
+The data used for analysis is sourced from an Sample Super Store data.
 
 ## License
 
