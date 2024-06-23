@@ -10,10 +10,11 @@ This Visualization provides an overview of the project, which involves conductin
 
 **IT Spend Analysis in Power View**
 
-![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/82652ebd-c4e3-4c90-9c9d-265b31d8542a)
+![image](![Screenshot 2024-06-23 212801](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/11b17d36-1b77-48db-afbc-678e37d8c3b9)
+)
 
 
-Delving into the IT Spend Analysis project, I leveraged Power View for visualization due to certain unsupported visuals in Power BI. Upon identifying an incompatible visual type, I swiftly removed it, ensuring the integrity of the analysis. The modified file, named "IT Spend Analysis Sample.pbix," exemplifies my adeptness in adapting tools to suit analytical needs. Explore my journey through data visualization challenges in this dynamic project.
+In the IT Spend Analysis project, I utilized Power View to create effective visualizations, adjusting my approach to overcome any limitations encountered with unsupported visuals in Power BI. By identifying and removing incompatible visual types, I ensured the continuity and accuracy of the analysis. The revised file, named "IT Spend Analysis Sample.pbix," highlights my proficiency in adapting visualization tools to meet analytical requirements. This project showcases my capability to navigate and resolve data visualization challenges dynamically.
 
 **Sample Superstore Monthly Sales Analysis**
 
