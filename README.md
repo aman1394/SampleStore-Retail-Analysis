@@ -10,7 +10,7 @@ This Visualization provides an overview of the project, which involves conductin
 
 **IT Spend Analysis in Power View**
 
-![image](![Screenshot 2024-06-23 212801](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/11b17d36-1b77-48db-afbc-678e37d8c3b9)
+![image](https://github.com/aman1394/SampleStore-Retail-Analysis/assets/121683356/11b17d36-1b77-48db-afbc-678e37d8c3b9)
 )
 
 
